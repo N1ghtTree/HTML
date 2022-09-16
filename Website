@@ -1,0 +1,24 @@
+<html>
+    <head>
+            <title>Ryan Burdette</title>
+            <link rel="stylesheet" type="text/css" href="./styles/
+            my_style.css" />
+    </head>
+    <Body>
+        <p style="font-weight: bold; font-size: 28px;">Ryan Burdette here,</p>
+        <p>I am 21 years old and a Computer Information Technology student at Northern Kentucky University.</p>
+    
+        
+        Fun fact about me:
+
+        <ul>
+            <li>I have a pet cockatoo</li>
+
+        </ul>
+
+        <img src="https://cdn.discordapp.com/attachments/1013057600549572700/1015357468630585385/CF041ED6-5A05-47D7-AB4A-BCC0C8AA106B.jpg" height="700px" width="500px"/>
+        
+        <p> Here is a link to my <a href="https://github.com/N1ghtTree">Github</a> account.</p>
+    
+    </Body>
+</html>
